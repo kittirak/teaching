@@ -41,14 +41,12 @@ installation and management as a service provider
 
 - Presentation (edition 8): https://gaia.cs.umass.edu/kurose_ross/ppt.php
 - Presention (แปลไทย edition ที่ 6) https://angsila.cs.buu.ac.th/~nutthanon/887230/
-- Textbook: [Computer networking a top-down approach ](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer Networking _ A Top Down Approach, 7th, converted.pdf)
+- Textbook Computer networking a top-down approach https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf 
 
 ศึกษาเพิ่มเเติม
 
 - Networking Academy: https://www.netacad.com/ ให้เรียน Packet Tracer
   Packet Tracer: https://www.netacad.com/resources/lab-downloads?courseLang=en-US
-
-
 
 
 # INT Presentations 
