@@ -41,6 +41,7 @@ installation and management as a service provider
 
 - Presentation (edition 8): https://gaia.cs.umass.edu/kurose_ross/ppt.php
 - Presention (แปลไทย edition ที่ 6) https://angsila.cs.buu.ac.th/~nutthanon/887230/
+- Textbook: Computer networking a top-down approach https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer Networking _ A Top Down Approach, 7th, converted.pdf
 
 ศึกษาเพิ่มเเติม
 
@@ -72,18 +73,14 @@ Module 16: Network Security Fundamentals* หน้า 1-20
 Module 17: Host and IOS Commands  
 
 # Link
-
 - Thailand Domestic Internet Exchange Update on 05/2025 Thailand International Internet Gateway Update on 05/2025 https://internet.nectec.or.th/webstats/internetmap.current.php?Sec=internetmap_current
 - Curcuit switching
   https://www.mindphp.com/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1/212-network/5858-circuit-switching.html
 - RFC HTTP https://datatracker.ietf.org/doc/html/rfc2616#section-5.1.1
 
 
-
 # Workshop
-
 ## workshop 1. HTTP protocols
-
 1. enable telnel on windows
 
 2. try to run
