@@ -41,7 +41,7 @@ installation and management as a service provider
 
 - Presentation (edition 8): https://gaia.cs.umass.edu/kurose_ross/ppt.php
 - Presention (แปลไทย edition ที่ 6) https://angsila.cs.buu.ac.th/~nutthanon/887230/
-- Textbook: Computer networking a top-down approach https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer Networking _ A Top Down Approach, 7th, converted.pdf
+- Textbook: [Computer networking a top-down approach ](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer Networking _ A Top Down Approach, 7th, converted.pdf)
 
 ศึกษาเพิ่มเเติม
 
