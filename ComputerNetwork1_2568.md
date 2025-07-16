@@ -84,13 +84,14 @@ Module 17: Host and IOS Commands
 
 # Workshop
 
-## workshop 1 HTTP protocols
+## workshop 1. HTTP protocols
 
 1. enable telnel on windows
 
 2. try to run
+```
 telnet oreg2.rmutt.ac.th 80
 GET /RMUTTStudentService/StudentStatus.aspx
-
+```
 3. if not read thai try to set locale
 
