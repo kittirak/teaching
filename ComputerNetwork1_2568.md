@@ -1,4 +1,4 @@
-#**05-510-225 เครือข่ายคอมพิวเตอร์ (Computer Networks)**
+# **05-510-225 เครือข่ายคอมพิวเตอร์ (Computer Networks)**
 
 ## คำอธิบายรายวิชา
 
@@ -12,14 +12,13 @@ organization for network and internet, network and internet service provider, ne
 and operation, an introduction to network threat and network security management, server
 installation and management as a service provider
 
-ภาคการศึกษาที่ 1/2568 เรียนวันพฤหัสบดี ห้อง BA4708
-08.00-12.00 สสค.4/67-A
-13.00-17.00 สสค.4/67-B
+ภาคการศึกษาที่ 1/2568 เรียนวันพฤหัสบดี ห้อง BA4708  
+08.00-12.00 สสค.4/67-A  
+13.00-17.00 สสค.4/67-B  
 
-13.00-17.00 สสค.4/67-B ห้อง BA4708
 
 | Date  | ทฤษฎี                                                 | ปฎิบัติ                                                             |
-| :----------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| :----------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | 10 ก.ค. (1)  | วันอาสาฬหบูชา                                                 |                                                              |
 | 17 ก.ค. (2)  | Big picture in computer networking<br />history of Internet | End Device Configuration<br />telnet and traceroute<br />VM and Linux Installation |
 | 24 ก.ค. (3)  | Protocols, Models and Physical layer                        | เข้าหัว RJ45, iperf <br />Linux: Package & service management  |
@@ -42,7 +41,6 @@ installation and management as a service provider
 
 - Presentation (edition 8): https://gaia.cs.umass.edu/kurose_ross/ppt.php
 - Presention (แปลไทย edition ที่ 6) https://angsila.cs.buu.ac.th/~nutthanon/887230/
-- Textbook: Computer networking a top-down approach https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer Networking _ A Top Down Approach, 7th, converted.pdf
 
 ศึกษาเพิ่มเเติม
 
@@ -55,23 +53,23 @@ installation and management as a service provider
 # INT Presentations 
 Presention: https://www.ccri.edu/faculty_staff/comp/jmowry/CSCO-1850-PP.html
 
-Module 1: Networking Today*
-Module 2: Basic Switch and End Device Configuration* หน้า 43-49 การคอนฟิกไอพี
-Module 3: Protocols and Models* (OSI vs TCP/IP  module, Data encapsulation)
-Module 4: Physical layer* (Signal, UTP, Fiber, Wireless)
-Module 5: Number systems (Binary, IPv4, Hex, IPv6)
-Module 6: Data Link Layer
+Module 1: Networking Today*  
+Module 2: Basic Switch and End Device Configuration* หน้า 43-49 การคอนฟิกไอพี  
+Module 3: Protocols and Models* (OSI vs TCP/IP  module, Data encapsulation)  
+Module 4: Physical layer* (Signal, UTP, Fiber, Wireless)  
+Module 5: Number systems (Binary, IPv4, Hex, IPv6)  
+Module 6: Data Link Layer  
 Module 7: Ethernet Switching 
-Module 8: Network Layer
-Module 9: Address Resolution* (สอน arp ที่นี่)
-Module 10: Basic router configuration
-Module 11: IPv4 Addressing*
-Module 12: IPv6* หน้า 1-24
-Module 13: ICMP Messages*
-Module 14: Transport Layer* TCP UDP flow control
-Module 15: Application Layer* HTTP, DNS, SMTP, file sharing
-Module 16: Network Security Fundamentals* หน้า 1-20
-Module 17: Host and IOS Commands
+Module 8: Network Layer  
+Module 9: Address Resolution* (สอน arp ที่นี่)  
+Module 10: Basic router configuration  
+Module 11: IPv4 Addressing*  
+Module 12: IPv6* หน้า 1-24  
+Module 13: ICMP Messages*  
+Module 14: Transport Layer* TCP UDP flow control  
+Module 15: Application Layer* HTTP, DNS, SMTP, file sharing  
+Module 16: Network Security Fundamentals* หน้า 1-20  
+Module 17: Host and IOS Commands  
 
 # Link
 
