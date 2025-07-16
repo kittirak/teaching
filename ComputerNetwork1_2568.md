@@ -1,8 +1,9 @@
-# **05-510-225 เครือข่ายคอมพิวเตอร์ (Computer Networks)**
+#**05-510-225 เครือข่ายคอมพิวเตอร์ (Computer Networks)**
 
 ## คำอธิบายรายวิชา
 
 แนวคิดและองค์ประกอบของระบบเครือข่าย มาตรฐานแบบจำลองโอเอสไอ โทโพโลยี อุปกรณ์เครือข่าย สื่อสัญญาณ โพรโตคอลและการทำงานของโพรโตคอล โครงสร้างระดับ กายภาพของเครือข่าย ได้แก่ เครือข่ายยบริการสำนักงาน เครือข่ายองค์กร เครือข่ายยระยะไกล คลาด์และการจัดเก็บข้อมูลในระบบคลาวด์ ประเภทของเครือข่าย เครือข่ายไร้สาย เครือข่ายอุปกรณ์เคลื่อนที่ เครือข่ายมูลค่าเพิ่ม ข้อจำกัดของเครือข่าย หน่วยงานมาตรฐาน และผู้ให้บริการในระบบเครือข่ายและเครือข่ายอินเทอร์เน็ต การจัดการและการบริหาร เครือข่าย แนะนำเบื้องต้นเกี่ยวกับภัยรุกรานในยุคดิจิทัล การจัดการดำเนินความมั่นคงของเครือข่ายการติดตั้งและการบริหารจัดการระบบในลักษณะผู้ให้บริการ 
+
 Concept and component of network system, OSI model, topology, network devices, protocol
 and communication signal, internet protocol work, physical layer of network, level of networking such
 as Small Office Home Office(SOHO), enterprise networking, and wide area network; type of networking
@@ -17,8 +18,9 @@ installation and management as a service provider
 
 13.00-17.00 สสค.4/67-B ห้อง BA4708
 
-| 10 ก.ค. (1)  | วันอาสาฬหบูชา                                                 |                                                              |
+| Date  | ทฤษฎี                                                 | ปฎิบัติ                                                             |
 | :----------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| 10 ก.ค. (1)  | วันอาสาฬหบูชา                                                 |                                                              |
 | 17 ก.ค. (2)  | Big picture in computer networking<br />history of Internet | End Device Configuration<br />telnet and traceroute<br />VM and Linux Installation |
 | 24 ก.ค. (3)  | Protocols, Models and Physical layer                        | เข้าหัว RJ45, iperf <br />Linux: Package & service management  |
 | 31 ก.ค. (4)  | Number systems, IPv4 Addressing                             | Subnet workshop between two VMs<br />Aapche web server, Firewall |
