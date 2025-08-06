@@ -58,7 +58,7 @@ Module 3: Protocols and Models* (OSI vs TCP/IP  module, Data encapsulation)
 Module 4: Physical layer* (Signal, UTP, Fiber, Wireless)  
 Module 5: Number systems (Binary, IPv4, Hex, IPv6)  
 Module 6: Data Link Layer  
-Module 7: Ethernet Switching 
+Module 7: Ethernet Switching  
 Module 8: Network Layer  
 Module 9: Address Resolution* (สอน arp ที่นี่)  
 Module 10: Basic router configuration  
