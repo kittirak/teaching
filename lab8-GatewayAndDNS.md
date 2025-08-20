@@ -13,7 +13,7 @@
    - ใน Command Prompt ให้ลองใช้คำสั่ง `nslookup` เพื่อค้นหา IP address ของเว็บไซต์ เช่น `nslookup www.google.com`
    - **ผลที่คาดหวัง:** ระบบจะแสดง IP address ของ `www.google.com` ซึ่งเป็นหลักฐานว่า DNS ทำงานได้ตามปกติ
    - **อธิบาย:** คำสั่งนี้แสดงให้เห็นว่า DNS ทำหน้าที่แปลงชื่อโดเมนที่มนุษย์อ่านได้ให้เป็น IP address ที่คอมพิวเตอร์ใช้ในการสื่อสาร
-   - ให้หา IP address ของ www.bus.rmutt.ac.th ด้วย 
+   - ให้หา IP address ของ www.bus.rmutt.ac.th แล้วบันทึกไว้ด้วย 
 3. **ตั้งค่า IP แบบ Manual และตัด Gateway ออก:**
    - เปิด **Control Panel > Network and Internet > Network and Sharing Center**
    - คลิกที่ **Change adapter settings**
@@ -40,7 +40,7 @@
 
 
 
-## **2. ผลกระทบเมื่อไม่มี DNS**
+## **2. เมื่อไม่มี DNS**
 
 
 
