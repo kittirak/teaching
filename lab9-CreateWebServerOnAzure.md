@@ -26,7 +26,7 @@
      - **Username:** ตั้งชื่อผู้ใช้ (เช่น `adminuser`)
      - **SSH public key source:** เลือก **"Generate new key pair"**
      - **Key pair name:** ตั้งชื่อคีย์ (เช่น `my-ssh-key`)
-   - **Inbound port rules:** เลือก **"Allow selected ports"** แล้วเลือก **"SSH (22)"** เท่านั้น
+   - **Inbound port rules:** เลือก **"Allow selected ports"** แล้วเลือก **"SSH (22)และHTTP(80)"** 
 4. คลิก **"Review + create"** และเมื่อการตรวจสอบเสร็จสิ้น ให้คลิก **"Create"**
 5. จะมีหน้าต่างให้ดาวน์โหลดไฟล์คีย์ส่วนตัว (`.pem`) และคีย์สาธารณะ (`.pub`) **สิ่งสำคัญ:** **ให้บันทึกไฟล์ .pem นี้ไว้ในที่ปลอดภัย** เพราะจะใช้ในการเชื่อมต่อ SSH
 
@@ -72,7 +72,7 @@
 
 
 ### **ขั้นตอนที่ 4: การกำหนดค่า Firewall บน Azure (เปิด Port 80)**
-
+** ไม่ต้องทำถ้าเราเลือกเปิด 80 มาตั้งแต่ตอนสร้าง vm ในขั้นตอนที่ 1**
 1. กลับไปที่ **Azure Portal** และไปที่หน้า **Overview** ของ VM
 2. ในเมนูซ้ายมือ ให้เลือก **"Networking"**
 3. คลิก **"Add inbound port rule"**
