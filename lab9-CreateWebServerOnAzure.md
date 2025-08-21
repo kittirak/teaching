@@ -19,7 +19,7 @@
 3. ในหน้า **"Create a virtual machine"** ให้ตั้งค่าดังนี้:
    - **Resource group:** คลิก **"Create new"** แล้วตั้งชื่อ (เช่น `my-web-server-rg`)
    - **Virtual machine name:** ตั้งชื่อ (เช่น `my-ubuntu-vm`)
-   - **Region:** เลือกภูมิภาคที่ใกล้ที่สุด (เช่น **Southeast Asia**)
+   - **Region:** เลือกภูมิภาคที่ใกล้ที่สุด (เช่น **(Asia Pacific) Malaysia West**)
    - **Image:** เลือก **"Ubuntu Server 22.04 LTS"**
    - **Size:** เลือกขนาด VM ที่อยู่ในโควตาฟรี (เช่น **Standard_B1s**)
    - **Administrator account:** เลือก **"SSH public key"**
