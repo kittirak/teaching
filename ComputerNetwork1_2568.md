@@ -76,6 +76,12 @@ Module 17: Host and IOS Commands
   https://www.mindphp.com/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1/212-network/5858-circuit-switching.html
 - RFC HTTP https://datatracker.ietf.org/doc/html/rfc2616#section-5.1.1
 
+# Grade Policy
+
+คะแนนเก็บ 50, สอบกลางภาค 25, ปลายภาค 25
+
+ตัดเกรดอิงเกณฑ์ 50 = D, 55 = D+, 60 = C, 65 = C+, 70 = B, 75 = B+, 80 = A
+
 
 # Workshop
 ## workshop 1. HTTP protocols
